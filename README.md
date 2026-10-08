@@ -230,8 +230,8 @@ If you like TV Garden and want to support development:
 
 ## 📄 License · Licenza
 
-MIT — see the [LICENSE](LICENSE) file for details.
-MIT — vedi il file [LICENSE](LICENSE) per i dettagli.
+see the [LICENSE](LICENSE) file for details.
+vedi il file [LICENSE](LICENSE) per i dettagli.
 
 Channel data belongs to its respective owners and is distributed from public sources.
 I dati dei canali appartengono ai rispettivi proprietari e sono distribuiti da fonti pubbliche.
