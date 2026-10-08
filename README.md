@@ -155,20 +155,6 @@ All content is **public and free**. The app doesn't host any stream: it gathers 
 
 **Requirements:** Android 5.0 or higher
 
-### 📱 Screenshots
-
-<p align="center">
-  <img src="Screen/screen1.png" width="200" alt="Home" onerror="this.style.display='none'"/>
-  <img src="Screen/screen2.png" width="200" alt="Countries" onerror="this.style.display='none'"/>
-  <img src="Screen/screen3.png" width="200" alt="Channels" onerror="this.style.display='none'"/>
-</p>
-<p align="center">
-  <img src="Screen/screen4.png" width="200" alt="Player" onerror="this.style.display='none'"/>
-  <img src="Screen/screen5.png" width="200" alt="Info" onerror="this.style.display='none'"/>
-</p>
-
-> *Screenshots coming soon — will be added shortly.*
-
 ### ❓ How to use
 
 #### 🏠 Home
