@@ -51,11 +51,13 @@ Tutti i contenuti sono **pubblici e gratuiti**. L'app non ospita nessuno stream:
 
 <p align="center">
   <img src="Screen/home.png" width="200" alt="Home" onerror="this.style.display='none'"/>
+</p>
+<p align="center">
   <img src="Screen/paesi.png" width="200" alt="Paesi" onerror="this.style.display='none'"/>
   <img src="Screen/canali.png" width="200" alt="Canali" onerror="this.style.display='none'"/>
 </p>
 <p align="center">
-  <img src="Screen/playe.png" width="200" alt="Player" onerror="this.style.display='none'"/>
+  <img src="Screen/player.png" width="200" alt="Player" onerror="this.style.display='none'"/>
   <img src="Screen/info.png" width="200" alt="Info" onerror="this.style.display='none'"/>
 </p>
 
